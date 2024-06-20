@@ -142,7 +142,7 @@ body {
 
 
 .balloon {
-  width: 13.5rem;
+  width: 11.5rem;
   bottom: 4rem;
   right: 1rem;
   animation: float 3s infinite ease-in-out;
