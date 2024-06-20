@@ -18,7 +18,7 @@ const Title = () => {
     
   return (
     <>
-      <h1 className="display-3 mt-5 mt-md-0">
+      <h1 className="display-3 mt-5 mt-md-3">
         <span className="fw-semibold">Discover</span> the Allure
         <br />
         of Sri Lanka's
