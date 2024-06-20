@@ -86,7 +86,7 @@ body {
   left: 0rem;
   top: -1rem;
   opacity: 0;
-  animation: fly 7s infinite;
+  animation: fly 10s infinite;
   animation-delay: 0s;
   animation-timing-function: linear;
 }
@@ -151,9 +151,9 @@ body {
 }
 
 .bike {
-  width: 26.5rem;
+  width: 0%;
   bottom: 0;
-  right: 35rem;
+  right: 35%;
   /* animation: float 3s infinite ease-in-out;
   animation-delay: 0s;
   animation-direction: alternate; */
@@ -172,6 +172,7 @@ body {
 }
 
 
+
 @media screen and (min-width: 768px) {
   .header-body {
     padding-top: 100px;
@@ -182,6 +183,12 @@ body {
     width: 15.5rem;
     bottom: 6rem;
     right: 15rem;
+  }
+
+  .bike {
+    width: 28%;
+    bottom: 0;
+    right: 35%;
   }
 
 }
