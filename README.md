@@ -14,6 +14,7 @@ Original Design Link: [ExploreSolo Website Hero Section](https://dribbble.com/sh
 
 ## Technologies Used
 
+- React 18
 - Bootstrap 5.3
 - Font: Poppins (Google Font)
 
