@@ -109,3 +109,12 @@ body {
   font-weight: 500;
   color: var(--bs-navbar-active-color);
 }
+
+
+.navbar-toggler {
+  border: 0px !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0 !important;
+}
