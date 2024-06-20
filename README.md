@@ -6,7 +6,7 @@ This project is a hero section for a website inspired by a design on Dribbble, w
 
 ![Original Design](https://github.com/kiwizu3/w3b-0001/blob/26f71528054646ae7a477efd4edcfb06ecb47617/src/assets/images/original.png)
 
-Original Design Link: [ExploreSolo Website Hero Section](https://dribbble.com/shots/24106995-ExploreSolo-website-hero-section)
+Original Design Link: [ExploreSolo Website Hero Section on Dribbble](https://dribbble.com/shots/24106995-ExploreSolo-website-hero-section)
 
 ## Developed Hero Section
 
