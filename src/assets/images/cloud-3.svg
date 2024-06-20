@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 124.74 29.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        opacity: .64;
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-5085.76" y1="29.17" x2="-5085.76" y2="0" gradientTransform="translate(-5023.39) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0" stop-color="rgba(255, 255, 255, .04)" stop-opacity=".04"/>
+      <stop offset=".05" stop-color="rgba(255, 255, 255, .22)" stop-opacity=".22"/>
+      <stop offset=".09" stop-color="rgba(255, 255, 255, .39)" stop-opacity=".39"/>
+      <stop offset=".14" stop-color="rgba(255, 255, 255, .53)" stop-opacity=".53"/>
+      <stop offset=".19" stop-color="rgba(255, 255, 255, .66)" stop-opacity=".66"/>
+      <stop offset=".25" stop-color="rgba(255, 255, 255, .77)" stop-opacity=".77"/>
+      <stop offset=".32" stop-color="rgba(255, 255, 255, .85)" stop-opacity=".85"/>
+      <stop offset=".4" stop-color="rgba(255, 255, 255, .92)" stop-opacity=".92"/>
+      <stop offset=".49" stop-color="rgba(255, 255, 255, .97)" stop-opacity=".97"/>
+      <stop offset=".62" stop-color="rgba(255, 255, 255, .99)" stop-opacity=".99"/>
+      <stop offset=".99" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="_500X500" data-name="500X500">
+    <path class="cls-1" d="M0,27.94c4.98-1.08,9.45-4.58,12.97-8.44,4.41-4.83,8.03-10.46,13.28-14.36,5.25-3.9,12.93-5.62,18.22-1.79,2.38,1.72,3.95,4.32,6.01,6.42,2.06,2.1,5.07,3.76,7.86,2.84,2.87-.96,4.22-4.13,6.03-6.56C67.05,2.47,71.39.19,75.86.01c4.47-.18,8.98,1.75,11.94,5.11,3.05,3.46,5.09,8.69,9.65,9.41,3.47.55,6.66-1.93,10.11-2.58,4.09-.77,8.35,1.16,11.24,4.16,2.89,2.99,4.62,6.92,5.93,10.87L2.22,29.17c-.75,0-1.48-.09-2.22-.21v-1.03Z"/>
+  </g>
+</svg>

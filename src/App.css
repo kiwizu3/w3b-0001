@@ -2,46 +2,11 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 
 html,
 body {
   height: 100%;
+  color: #000000;
 }
 
 #root {
@@ -51,7 +16,7 @@ body {
 
 .bg-image {
   /* background-color: #ff9494; */
-  background-image: url('./assets/images/bg_preview.png');
+  background-image: url('./assets/images/main-bg.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -61,11 +26,7 @@ body {
   padding-top: 100px;
 }
 
-@media screen and (min-width: 768px) {
-  .header-body {
-    padding-top: 100px;
-  }
-}
+
 
 
 .full-page {
@@ -177,4 +138,50 @@ body {
   height: 1rem;
   top: 0rem;
   left: -4rem;
+}
+
+
+.balloon {
+  width: 13.5rem;
+  bottom: 4rem;
+  right: 1rem;
+  animation: float 3s infinite ease-in-out;
+  animation-delay: 0s;
+  animation-direction: alternate;
+}
+
+.bike {
+  width: 26.5rem;
+  bottom: 4rem;
+  right: 37rem;
+  /* animation: float 3s infinite ease-in-out;
+  animation-delay: 0s;
+  animation-direction: alternate; */
+}
+
+@keyframes float {
+  0%{
+    bottom: 4rem;
+  }
+  50%{
+    bottom: 3rem;
+  }
+  100%{
+    bottom: 4rem;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .header-body {
+    padding-top: 100px;
+  }
+
+
+  .balloon {
+    width: 15.5rem;
+    bottom: 6rem;
+    right: 15rem;
+  }
+
 }
