@@ -67,7 +67,7 @@ const Navbar = () => {
             </div>
             {!isCollapsed && (
               <button
-                className="btn-close position-absolute top-0 end-0 m-3"
+                className="btn-close position-absolute top-0 right-1 m-3"
                 onClick={handleToggle}
                 aria-label="Close"
               ></button>

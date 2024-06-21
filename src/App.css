@@ -26,8 +26,9 @@ body {
   padding-top: 100px;
 }
 
-
-
+.right-1{
+  right: 1rem !important;
+}
 
 .full-page {
   position: fixed;
