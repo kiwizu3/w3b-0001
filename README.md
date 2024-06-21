@@ -10,7 +10,7 @@ Original Design Link: [ExploreSolo Website Hero Section on Dribbble](https://dri
 
 ## Developed Hero Section
 
-![Developed Hero Section](https://github.com/kiwizu3/w3b-0001/blob/26f71528054646ae7a477efd4edcfb06ecb47617/src/assets/images/screenshot.png)
+![Developed Hero Section](https://github.com/kiwizu3/w3b-0001/blob/e17a08b35452ec5b4c87f8efb57f82ce38ec0709/src/assets/images/screenshot.png)
 
 ## Technologies Used
 
