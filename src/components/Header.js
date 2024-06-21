@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Birds from "./Birds";
 
+import Birds from "./Birds";
 import Bike from "./Bike";
 import Balloon from "./Balloon";
 import Title from "./Title";
