@@ -1,6 +1,6 @@
 # ExploreSolo Website Hero Section
 
-This project is a hero section for a website inspired by a design on Dribbble, with some improvisations during development.
+This project is a hero section for a website inspired by a design on Dribbble, with some improvisations during development. Why I chose this exact design is for two reasons, one is the minimalism yet the contrast of colours used to attract users and the second would be my undying passion for tourism X technology combo. So yeah. Looking forward to build this upto a real working directory with information about Sri Lanka.
 
 ## Original Design
 
